@@ -1,1 +1,1 @@
-# All files here are made bacause I'm lazy
+# All files here are made because I'm lazy
